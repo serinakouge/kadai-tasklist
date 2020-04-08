@@ -32,7 +32,7 @@
   	</dependency>
   	<dependency>
   		<groupId>org.hibernate</groupId>
-  		<artifactId>hibernate-cote</artifactId>
+  		<artifactId>hibernate-core</artifactId>
   		<version>5.2.13.Final</version>
   	</dependency>
   	<dependency>
